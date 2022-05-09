@@ -11,7 +11,7 @@ This is a two year master degree, and I will finish in the summer of 2022.
 ### School
 - Master thesis - Detection of a person in water from thermalimages  
 Starting on a Master thesis that will use a thermal camera to detect people falling in the water in Trondheim with help of AI and ML.  
-More info coming. [Some info](https://www.zebop.io/smart-and-safe-city)
+More info coming. [Some info](https://www.zebopavalon.com/pilot)
 
 - [Bachelor thesis](https://github.com/magnusoy/Sparkie) Autonomous inspections for process industry by a quadruped robot with use of neural networks
 
