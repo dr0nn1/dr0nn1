@@ -9,9 +9,9 @@ This is a two year master degree, and I will finish in the summer of 2022.
 - [USV Sounder](https://github.com/dr0nn1/USVSounder) Work done for Kongberg Maritime in Horten in the period 07.06.21 - 06.08.21
 
 ### School
-- Master thesis - Detection of a person in water from thermalimages  
-Starting on a Master thesis that will use a thermal camera to detect people falling in the water in Trondheim with help of AI and ML.  
-More info coming. [Some info](https://www.zebopavalon.com/pilot)
+- [Master thesis](https://github.com/dr0nn1/masterThesis) - Detection of a person in water from thermal images   
+Master thesis that uses a thermal camera to detect people falling in the water in Trondheim with help of AI and ML  
+Done in collaboration with Zebop Avalon. Info about the project can be found [here](https://www.zebopavalon.com/pilot)
 
 - [Bachelor thesis](https://github.com/magnusoy/Sparkie) Autonomous inspections for process industry by a quadruped robot with use of neural networks
 
