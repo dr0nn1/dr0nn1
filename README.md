@@ -1,6 +1,4 @@
 # Petter Drønnen 👋
-Currently studying Cybernetics and Robotics at NTNU in Trondheim.  
-This is a two year master degree, and I will finish in the summer of 2022.  
 [LinkedIn](https://www.linkedin.com/in/petter-dr%C3%B8nnen-014b02196/)  
 [E-Mail](mailto:petter.dronnen@outlook.com)
 
