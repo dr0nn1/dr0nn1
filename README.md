@@ -1,5 +1,5 @@
 # Petter Drønnen 👋  
-Software Developer at Capgemini  
+Software Engineer at Capgemini  
 [LinkedIn](https://www.linkedin.com/in/petter-dr%C3%B8nnen-014b02196/)  
 [E-Mail](mailto:petter.dronnen@outlook.com)
 
