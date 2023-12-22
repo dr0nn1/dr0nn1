@@ -21,7 +21,7 @@ Done in collaboration with Zebop Avalon. Info about the project can be found [he
 - [Helicopter-lab](https://github.com/dr0nn1/TTK4115-Helicopter-lab) Helicopter lab assignment in the subject TTK4115 at NTNU. Written in Matlab and Simulink
 
 ### Personal
-- [Light controller](https://github.com/dr0nn1/433MHz-light-controller) Turns on and off the light in a wardrobe. Written in Arduino
+- [Light controller](https://github.com/dr0nn1/433MHz-light-controller) Turns on and off the light in a wardrobe. Written in C++ / Arduino
 - [Quiz-GUI](https://github.com/dr0nn1/Quiz-GUI) Written in Python with PyQt5
 - [HAN-Decoder](https://github.com/dr0nn1/HAN-Decoder) Used for decoding message from the HAN-port on an AMS. Written in Python
 - [TwitterTwitchBot](https://github.com/dr0nn1/TwitterTwitchBot) Written in Python
