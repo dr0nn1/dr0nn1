@@ -1,5 +1,5 @@
 # Petter Drønnen 👋  
-Software Engineer at Capgemini  
+Software Engineer at SpareBank 1 Factoring AS  
 [LinkedIn](https://www.linkedin.com/in/petter-dr%C3%B8nnen-014b02196/)  
 [E-Mail](mailto:petter.dronnen@outlook.com)
 
